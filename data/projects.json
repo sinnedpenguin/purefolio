@@ -1,0 +1,53 @@
+[
+  {
+    "name": "AnimeDen",
+    "description": "A free and ad-free anime streaming app.",
+    "repository": "https://github.com/sinnedpenguin/AnimeDen",
+    "demo": "https://animeden.sinnedpenguin.me",
+    "technologies": [
+      { "name": "Next.js", "icon": "nextdotjs" },
+      { "name": "React.js", "icon": "react" },
+      { "name": "TypeScript", "icon": "typescript" },
+      { "name": "Tailwind CSS", "icon": "tailwindcss" },
+      { "name": "Firebase", "icon": "firebase" }
+    ]
+  },
+  {
+    "name": "DennX",
+    "description": "An AI-powered chatbot.",
+    "repository": "https://github.com/sinnedpenguin/DennX",
+    "demo": "https://dennx.sinnedpenguin.me",
+    "technologies": [
+      { "name": "Vue.js", "icon": "vuedotjs" },
+      { "name": "TypeScript", "icon": "typescript" },
+      { "name": "JavaScript", "icon": "javascript" },
+      { "name": "Tailwind CSS", "icon": "tailwindcss"},
+      { "name": "Firebase", "icon": "firebase" }
+    ]
+  },
+  {
+    "name": "Lalabot",
+    "description": "A discord music bot.",
+    "repository": "https://github.com/sinnedpenguin/lala-bot",
+    "demo": "https://lalabot.sinnedpenguin.me",
+    "technologies": [
+      { "name": "Next.js", "icon": "nextdotjs" },
+      { "name": "React.js", "icon": "react" },
+      { "name": "TypeScript", "icon": "typescript" },
+      { "name": "Tailwind CSS", "icon": "tailwindcss" },
+      { "name": "Node.js", "icon": "nodedotjs" }
+    ]
+  },
+  {
+    "name": "Purefolio",
+    "description": "A minimal portfolio template.",
+    "repository": "https://github.com/sinnedpenguin/purefolio",
+    "demo": "https://sinnedpenguin.me",
+    "technologies": [
+      { "name": "Next.js", "icon": "nextdotjs" },
+      { "name": "React.js", "icon": "react" },
+      { "name": "TypeScript", "icon": "typescript" },
+      { "name": "Tailwind CSS", "icon": "tailwindcss" }
+    ]
+  }
+]

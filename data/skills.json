@@ -1,0 +1,20 @@
+{
+  "technologies": [
+    { "name": "Next.js", "icon": "nextdotjs" },
+    { "name": "React.js", "icon": "react" },
+    { "name": "TypeScript", "icon": "typescript" },
+    { "name": "JavaScript", "icon": "javascript" },
+    { "name": "Node.js", "icon": "nodedotjs" },
+    { "name": "Java", "icon": "java" },
+    { "name": "Tailwind CSS", "icon": "tailwindcss" },
+    { "name": "Bootstrap", "icon": "bootstrap" },
+    { "name": "MSSQL", "icon": "microsoftsqlserver" },
+    { "name": "MySQL", "icon": "mysql" },
+    { "name": "Firebase", "icon": "firebase" }
+  ],
+  "tools": [
+    { "name": "Git", "icon": "git" },
+    { "name": "GitHub", "icon": "github" },
+    { "name": "Linux", "icon": "linux" }
+  ]
+}
