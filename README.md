@@ -4,6 +4,9 @@ A minimal portfolio template.
 
 [Live Demo](https://sinnedpenguin.me/).
 
+![Screenshot 2023-10-20 001858](https://github.com/sinnedpenguin/purefolio/assets/133164950/00836457-f5ef-425a-8a21-28eff8df8c73)
+![Screenshot 2023-10-20 001904](https://github.com/sinnedpenguin/purefolio/assets/133164950/28e4b5ba-6929-470d-9d7c-2e4a66c7e636)
+
 ## Getting started
 
 Follow these steps to use the template.
