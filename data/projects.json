@@ -27,7 +27,7 @@
   },
   {
     "name": "Lalabot",
-    "description": "A discord music bot.",
+    "description": "A Discord music bot.",
     "repository": "https://github.com/sinnedpenguin/lala-bot",
     "demo": "https://lalabot.sinnedpenguin.me",
     "technologies": [
