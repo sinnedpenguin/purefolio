@@ -1,8 +1,19 @@
 [
   {
+    "name": "STREAMit!",
+    "description": "A free and ad-free Movies/TV Shows streaming app. No sign up or registration needed.",
+    "repository": "https://github.com/sinnedpenguin/streamit",
+    "demo": "https://streamit.sinnedpenguin.me",
+    "technologies": [
+      { "name": "Svelte/Sveltekit", "icon": "svelte" },
+      { "name": "TypeScript", "icon": "typescript" },
+      { "name": "Tailwind CSS", "icon": "tailwindcss" }
+    ]
+  },
+  {
     "name": "AnimeDen",
     "description": "A free and ad-free anime streaming app.",
-    "repository": "https://github.com/sinnedpenguin/AnimeDen",
+    "repository": "https://github.com/sinnedpenguin/animeden",
     "demo": "https://animeden.sinnedpenguin.me",
     "technologies": [
       { "name": "Next.js", "icon": "nextdotjs" },
@@ -15,7 +26,7 @@
   {
     "name": "DennX",
     "description": "An AI-powered chatbot.",
-    "repository": "https://github.com/sinnedpenguin/DennX",
+    "repository": "https://github.com/sinnedpenguin/dennx",
     "demo": "https://dennx.sinnedpenguin.me",
     "technologies": [
       { "name": "Vue.js", "icon": "vuedotjs" },
@@ -31,8 +42,7 @@
     "repository": "https://github.com/sinnedpenguin/lala-bot",
     "demo": "https://lalabot.sinnedpenguin.me",
     "technologies": [
-      { "name": "Next.js", "icon": "nextdotjs" },
-      { "name": "React.js", "icon": "react" },
+      { "name": "Svelte/Sveltekit", "icon": "svelte" },
       { "name": "TypeScript", "icon": "typescript" },
       { "name": "Tailwind CSS", "icon": "tailwindcss" },
       { "name": "Node.js", "icon": "nodedotjs" }
@@ -48,6 +58,18 @@
       { "name": "React.js", "icon": "react" },
       { "name": "TypeScript", "icon": "typescript" },
       { "name": "Tailwind CSS", "icon": "tailwindcss" }
+    ]
+  },
+  {
+    "name": "Angular-Springboot Ecommerce",
+    "description": "An Angular-Spring Boot ecommerce app with Spring Security implementation and Stripe integration.",
+    "repository": "https://github.com/sinnedpenguin/angular-springboot-ecommerce",
+    "demo": "https://github.com/sinnedpenguin/angular-springboot-ecommerce",
+    "technologies": [
+      { "name": "Angular", "icon": "angular" },
+      { "name": "Java", "icon": "java" },
+      { "name": "Bootstrap", "icon": "bootstrap" },
+      { "name": "MSSQL", "icon": "microsoftsqlserver" }
     ]
   }
 ]

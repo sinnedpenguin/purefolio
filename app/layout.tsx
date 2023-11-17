@@ -3,6 +3,7 @@ import './globals.css'
 import type { Metadata } from 'next'
 import Footer from '@/components/footer'
 import { siteConfig } from '@/config/site'
+import { Analytics } from '@vercel/analytics/react';
 
 export const metadata: Metadata = {
   title: siteConfig.name,
@@ -21,13 +22,14 @@ export default function RootLayout({
         <body>
           <ThemeProvider
             attribute="class"
-            defaultTheme="system"
+            defaultTheme="light"
             enableSystem
             disableTransitionOnChange
           >
             {children}
           <Footer />
           </ThemeProvider>
+          <Analytics />
         </body>
       </html>
     </>

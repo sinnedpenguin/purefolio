@@ -1,5 +1,6 @@
 {
   "technologies": [
+    { "name": "Svelte/Sveltekit", "icon": "svelte" },
     { "name": "Next.js", "icon": "nextdotjs" },
     { "name": "React.js", "icon": "react" },
     { "name": "TypeScript", "icon": "typescript" },
