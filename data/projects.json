@@ -45,6 +45,7 @@
       { "name": "Svelte/Sveltekit", "icon": "svelte" },
       { "name": "TypeScript", "icon": "typescript" },
       { "name": "Tailwind CSS", "icon": "tailwindcss" },
+      { "name": "JavaScript", "icon": "javascript" },
       { "name": "Node.js", "icon": "nodedotjs" }
     ]
   },
