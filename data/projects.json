@@ -3,7 +3,7 @@
     "name": "STREAMit!",
     "description": "A free and ad-free Movies/TV Shows streaming app. No sign up or registration needed.",
     "repository": "https://github.com/sinnedpenguin/streamit",
-    "demo": "https://streamit-d35n.onrender.com",
+    "demo": "https://stream-it.sinnedpenguin.me",
     "technologies": [
       { "name": "Svelte/Sveltekit", "icon": "svelte" },
       { "name": "TypeScript", "icon": "typescript" },
